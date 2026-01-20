@@ -227,18 +227,15 @@ This repository demonstrates **intent and capability**, not just an idea.
 KalaKruti-Nexus/
 │
 ├── Presentation/
-│ └── KalaKruti_GTM_Deck.pptx
+│   └── KalaKruti_GTM_Deck.pptx
 │
 ├── Documentation/
-│ └── KalaKruti_Detailed_Report.pdf
+│   └── KalaKruti_Detailed_Report.pdf
 │
 ├── Demonstration/
-│ └── KalaKruti_Demo_Video.mp4
+│   └── KalaKruti_Demo_Video.mp4
 │
 └── README.md
-
-yaml
-Copy code
 
 ---
 
