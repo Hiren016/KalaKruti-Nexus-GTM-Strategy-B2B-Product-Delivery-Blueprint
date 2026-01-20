@@ -224,3 +224,55 @@ This repository demonstrates **intent and capability**, not just an idea.
 
 ## 📂 Repository Structure
 
+KalaKruti-Nexus/
+│
+├── Presentation/
+│ └── KalaKruti_GTM_Deck.pptx
+│
+├── Documentation/
+│ └── KalaKruti_Detailed_Report.pdf
+│
+├── Demonstration/
+│ └── KalaKruti_Demo_Video.mp4
+│
+└── README.md
+
+yaml
+Copy code
+
+---
+
+## 👤 Author
+
+**Hiren Darji**  
+Product Thinker | GTM Strategy | Documentation and Communication  
+
+🔗 LinkedIn: https://linkedin.com/in/hiren-darji31  
+
+---
+
+## 📄 Usage and Intent
+
+This repository is created for:
+- Product strategy demonstration
+- GTM capability showcase
+- B2B readiness validation
+- Professional evaluation and review
+
+All materials are original and purpose-built for demonstration and accountability.
+
+---
+
+## 🌟 Closing Note
+
+KalaKruti Nexus reflects a belief that **great products are not only imagined but responsibly articulated executed and documented**.
+
+This repository stands as proof of:
+- Ownership of idea
+- Clarity of execution
+- Strength of communication
+- Respect for process
+
+*Curating culture is an art. Delivering it at scale is a strategy.*
+
+🌱 **KalaKruti Nexus**
