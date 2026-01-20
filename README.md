@@ -47,7 +47,12 @@ This repository contains three core assets that together form a complete GTM and
 - Why the GTM strategy is practical and promising
 - Communication clarity and storytelling strength
 
-📁 **Note:** The demonstration video is available inside the repository folder and is a critical component of the overall evaluation.
+## 🎬 Product Demonstration Video
+
+A complete walkthrough explaining the **KalaKruti product vision**, **B2B value proposition**, and **Go-To-Market strategy**, showcasing communication clarity, strategic thinking, and execution readiness.
+
+🔗 **Watch the Demonstration Video:**  
+https://drive.google.com/file/d/1kZE9ktTwQsUWaOes5wnRYQdBH0QKFT22/view?usp=sharing
 
 ---
 
